@@ -1,0 +1,9 @@
+{
+  "unitrollerAddress": "0x75eBe50E115bBe9F0399bab18Fe4719b7409c488",
+  "sebUnitrollerAddress": "0x3a1C7Fa5b924e02fAF3cd221804173a42F0117d6",
+  "sebVaultProxyAddress": "0x9BFEfeA5e697C88b56A8e2BcB322e5E953A37Ca1",
+  "miaLensAddress": "0xC28D11643D18a26f436dC85066Cbbb12168aCe7C",
+  "governorAddress":"0x1A27C97B84Ba2616CF8ff48df45A3f1e44a943f4",
+  "miaAddress": "0xd9edE9aDe6090987fB3eBE4750877C66b32c002E",
+  "oracleAddress": "0x7191e2DE1DaDcb643C9e98F72d04bBBa66f58071"
+}

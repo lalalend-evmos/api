@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container {
+    animation : 3s linear 1s infinite alternate slidein;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+@keyframes slidein {
+    from { transform: scaleX(0); }
+    to   { transform: scaleX(1); }
+}
